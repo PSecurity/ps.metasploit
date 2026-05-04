@@ -1,5 +1,3 @@
-Você tem toda razão! Vamos fazer algo minimalista, profissional e que não desconfigura:
-
 ```markdown
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
@@ -131,5 +129,3 @@ Responsabilidade total do usuário.
 
 *"Onde a segurança encontra a excelência"*
 ```
-
-Agora sim! Minimalista, profissional e sem risco de desformatar.
