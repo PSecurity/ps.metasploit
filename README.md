@@ -1,18 +1,13 @@
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   ██████╗ ███████╗    ███╗   ███╗███████╗████████╗ █████╗       │
-│   ██╔══██╗██╔════╝    ████╗ ████║██╔════╝╚══██╔══╝██╔══██╗      │
-│   ██████╔╝███████╗    ██╔████╔██║█████╗     ██║   ███████║      │
-│   ██╔═══╝ ╚════██║    ██║╚██╔╝██║██╔══╝     ██║   ██╔══██║      │
-│   ██║     ███████║    ██║ ╚═╝ ██║███████╗   ██║   ██║  ██║      │
-│   ╚═╝     ╚══════╝    ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝      │
-│                                                                 │
-│                    ┌─────────────────────┐                      │
-│                    │      P S - M E T A  │                      │
-│                    │  Metasploit v3.0    │                      │
-│                    └─────────────────────┘                      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+# 🎯 PS-META v3.0 – Metasploit Installer para Termux
+
+![version](https://img.shields.io/badge/version-3.0-purple?style=flat-square)
+![platform](https://img.shields.io/badge/platform-Android%20%7C%20Termux%20%7C%20Kali%20%7C%20Nethunter-green?style=flat-square)
+![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![ruby](https://img.shields.io/badge/ruby-3.2.5-red?style=flat-square)
+![metasploit](https://img.shields.io/badge/metasploit-6.4-orange?style=flat-square)
+
+> **Criado por Peek (Gilberto Martins) – PeekSecurity**  
+> *"Fala rapaziada, suavidade? Metasploit no Termux sem dor de cabeça."*
 
 # 🛡️ PS-META - METASPLOIT INSTALLER
 
@@ -78,8 +73,8 @@ pkg install git -y
 ### Passo 2: Baixar o instalador
 
 ```bash
-git clone https://github.com/peeksecurity/ps-meta.git
-cd ps-meta
+git clone https://github.com/peeksecurity/ps.metasploit
+cd ps.metasploit
 chmod +x ps-meta.sh
 ```
 
@@ -247,11 +242,5 @@ Uso educacional apenas. Utilize somente em ambientes autorizados.
 
 ---
 
-## 📞 CRÉDITOS
-
-Peek (Gilberto Martins)  
-PeekSecurity
-
----
-
-🛡️ PS-META - PeekSecurity
+│   🛡️  PS-META by Peek - PeekSecurity                            
+│   "Onde a segurança encontra a excelência"                      
